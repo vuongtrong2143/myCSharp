@@ -1,0 +1,14 @@
+D:\CSharpT5\bai8\bin\Debug\net8.0\bai8.exe
+D:\CSharpT5\bai8\bin\Debug\net8.0\bai8.deps.json
+D:\CSharpT5\bai8\bin\Debug\net8.0\bai8.runtimeconfig.json
+D:\CSharpT5\bai8\bin\Debug\net8.0\bai8.dll
+D:\CSharpT5\bai8\bin\Debug\net8.0\bai8.pdb
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.AssemblyInfoInputs.cache
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.AssemblyInfo.cs
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.csproj.CoreCompileInputs.cache
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.dll
+D:\CSharpT5\bai8\obj\Debug\net8.0\refint\bai8.dll
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.pdb
+D:\CSharpT5\bai8\obj\Debug\net8.0\bai8.genruntimeconfig.cache
+D:\CSharpT5\bai8\obj\Debug\net8.0\ref\bai8.dll
